@@ -112,7 +112,7 @@ Raspberry Pi | Jetson Nano | Edge AI Systems
 
 - 💼 LinkedIn: https://www.linkedin.com/in/uttejmoturu
 - 💻 GitHub: https://github.com/MOTURUUTTEJ
-- 📧 Email: uttejmoturu130405@gmail.com@gmail.com  
+- 📧 Email: uttejmoturu130405@gmail.com
 
 ---
 
